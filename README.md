@@ -3,5 +3,6 @@
 https://wiki.python.org.br/EstruturaSequencial
 
 Exercícios em Java
+Legendas:
 Lista -> L
 Exercícios -> E
