@@ -9,7 +9,7 @@ public class NumeroInforme {
             numero=input.nextInt();
 
         } catch (InputMismatchException e){
-            System.out.println("Digito não permitido");
+            System.out.println("Tente Novamente");
         }
 
 //        System.out.println("O número informado foi: "+numero);
