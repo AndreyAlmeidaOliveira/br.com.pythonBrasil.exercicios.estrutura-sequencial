@@ -9,7 +9,7 @@ public class NumeroInforme {
             numero=input.nextInt();
 
         } catch (InputMismatchException e){
-            System.out.println("Tente Novamente");
+            System.out.println("Tente");
         }
 
 //        System.out.println("O número informado foi: "+numero);
